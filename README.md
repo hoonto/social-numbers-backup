@@ -5,6 +5,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/75lb/social-numbers/badge.svg)](https://coveralls.io/github/75lb/social-numbers)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
+*This was removed from github and unpublished so putting a backup here temporarily until I receive info from the author about it.*
+
 # social-numbers
 
 Fetch social media numbers. No special access or API key required.
