@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      "social-numbers@0.1.0",
+      "/usr/local/src/festivalapp"
+    ]
+  ],
+  "_from": "social-numbers@0.1.0",
+  "_id": "social-numbers@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Bm+nwuZAwWDAQhVUUR82rKUuxM65aLC74zlXmDSVz6LbWJRJkRi09BWdKfeM9Ne/X+TLdvy8o+CJWmCNvNdB0w==",
+  "_location": "/social-numbers",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "social-numbers@0.1.0",
+    "name": "social-numbers",
+    "escapedName": "social-numbers",
+    "rawSpec": "0.1.0",
+    "saveSpec": null,
+    "fetchSpec": "0.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/social-numbers/-/social-numbers-0.1.0.tgz",
+  "_spec": "0.1.0",
+  "_where": "/usr/local/src/festivalapp",
+  "author": {
+    "name": "Lloyd Brookes",
+    "email": "75pound@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/75lb/social-numbers/issues"
+  },
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  },
+  "description": "Fetch social media numbers",
+  "devDependencies": {
+    "test-runner": "^0.5.0"
+  },
+  "engines": {
+    "node": ">=7.6"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/75lb/social-numbers#readme",
+  "keywords": [
+    "followers",
+    "social media",
+    "facebook",
+    "instagram",
+    "twitter",
+    "vk",
+    "social"
+  ],
+  "license": "MIT",
+  "name": "social-numbers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/75lb/social-numbers.git"
+  },
+  "scripts": {
+    "test": "test-runner test.js"
+  },
+  "version": "0.1.0"
+}

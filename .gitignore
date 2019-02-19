@@ -1,0 +1,10 @@
+.vscode
+.idea
+dist/**
+package-lock.json
+npm-debug.log
+node_modules
+sendgrid.env
+.env
+ci/vars.yml
+ci/concourse-sa.json
